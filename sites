@@ -1,0 +1,24 @@
+<html>
+    <head><title>Testing</title>
+    </head>
+    
+    <body>
+        
+  <script>
+    var SM_CONFIG = {
+      apiKey: 'eyJzb3VsSWQiOiJkZG5hLXZhbGVudGFfYnBvLWJhbmtpbmdzZXJ2aWNlIiwiYXV0aFNlcnZlciI6Imh0dHBzOi8vZGguc291bG1hY2hpbmVzLmNsb3VkL2FwaS9qd3QiLCJhdXRoVG9rZW4iOiJhcGlrZXlfdjFfNTZmNDYwMWUtYzNmZC00NDNkLWFhZGYtMDg2OWM2NDRiYjdkIn0=',
+      profilePicture: "https://assets.cdn.soulmachines.cloud/AvatarCoverImages/image-png_yumi_jp-l.jpg",
+	  greeting: 'Hi!! Im here to help you'
+
+    };
+
+    
+     
+
+
+
+    !function(){var e=window,t=document,n=t.createElement("script");n.type="text/javascript",n.async=!1,n.defer=!0,n.src="https://static.soulmachines.com/soulmachines-latest.js",n.onload=()=>{e.sm.configure(SM_CONFIG)},e.addEventListener("DOMContentLoaded",(()=>{var e=t.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)}))}();
+  </script>
+  
+    </body>
+</html>
